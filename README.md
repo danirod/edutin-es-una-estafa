@@ -1,12 +1,5 @@
 # Edutin Academy es una presunta estafa, te explico por qué
 
-> **ℹ️ Info**: estoy trabajando en un Excel que recopila todas las URL de
-YouTube y los creadores originales de esos vídeos, que he encontrado como
-lección en el sitio web de Edutin Academy. He infravalorado el scope del problema
-porque ahora tengo una lista con 1300 vídeos y tengo que sacar la lista de
-canales para separar el contenido original (para excluirlo) del contenido que
-"toman prestado". Actualizaré este repo cuando lo tenga listo.
-
 ## Resumen
 
 * Edutin Academy es una plataforma de formación que tiene una universidad en
@@ -47,7 +40,8 @@ negativas de un producto o servicio.
 haciendo más ruido para que cuando alguien se quiera informar sobre Edutin
 Academy en Google o en YouTube pueda tener más a mano este tipo de contexto
 antes de que hagan una compra que pueda no estar a la altura de las
-circunstancias. [Sus reviews en Trustpilot recibidas desde 2021 son un auténtico bodegón](https://www.trustpilot.com/review/edutin.com?languages=all&stars=1)
+circunstancias.
+[Sus reviews en Trustpilot recibidas desde 2021 son un auténtico bodegón](https://www.trustpilot.com/review/edutin.com?languages=all&stars=1).
 
 * Varios canales sobre programación incluyendo el mío estamos tratando de
 organizarnos para darle toda la difusión simultánea posible hasta que las
@@ -55,10 +49,20 @@ prácticas cesen y Edutin Academy retire el contenido que consideramos se está
 revendiendo sin nuestro permiso. Si revocan la denuncia de copyright de mi
 canal de YouTube, sería un plus.
 
-* Está en proceso de fabricación un Excel que enumere todos los vídeos de
-programación tomados de otros canales que NO sean el suyo para que sea fácil
-para un creador saber si su contenido ha sido tomado o no, simplemente
-buscándose en la lista.
+## La lista de vídeos y canales afectados
+
+He compilado **[una lista](Canales-y-videos-afectados.csv)**
+con las lecciones de los cursos de Edutin que utilizan contenido ajeno.
+Los criterios de inclusión en la lista son:
+
+* El curso forma parte de la categoría de Programación y lo he detectado
+(es posible que haya cursos que no haya visto y no estén incluidos).
+
+* El vídeo es ajeno (o sea, no se incluyen los cursos que están hechos por
+ellos con material propio porque eso está OK)
+
+* Tampoco incluyo al canal CS50, ya que muchos de estos vídeos de por sí están
+resubidos en su cuenta, así que no están en el filtro del paso anterior.
 
 ## Qué es Edutin Academy
 
