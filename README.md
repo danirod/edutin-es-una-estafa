@@ -1,5 +1,13 @@
 # Edutin Academy es una presunta estafa, te explico por qué
 
+**⚠️ IMPORTANTE**: Pese a que se parecen en el nombre, es ESENCIAL no confundir
+a Edutin Academy con EDteam, que también es otra plataforma que tiene cursos de
+programación. Que Edutin Academy haya decidido ponerse un nombre que suene tan
+similar puede ser casualidad o no, eso ya que decida cada cual. Yo me estoy
+refiriendo a Edutin Academy. Por favor, no la toméis con EDteam por este tema
+porque no sólo no tienen nada que ver, sino que sus vídeos también están en
+la lista.
+
 ## Resumen
 
 * Edutin Academy es una plataforma de formación que tiene una universidad en
@@ -76,13 +84,6 @@ En lo que queda de post me centraré en particular en la rama de programación
 y desarrollo de software, porque es en lo que soy experto y a lo que me dedico.
 Es posible o no que este problema pueda estar pasando en otras ramas, pero
 no las cubro aquí porque no es a lo que me dedico. Mis disculpas de antemano.
-
-**⚠️ IMPORTANTE**: Pese a que se parecen en el nombre, es ESENCIAL no confundir
-a Edutin Academy con EDteam, que también es otra plataforma que tiene cursos de
-programación. Que Edutin Academy haya decidido ponerse un nombre que suene tan
-similar puede ser casualidad o no, eso ya que decida cada cual. Se pide que
-no la toméis con EDteam de forma accidental, sería como tomarla con KFC porque
-no te ha sentado bien el pollo que has comido en un KCF falso.
 
 ## Por qué esto es un problema para los estudiantes
 
