@@ -161,11 +161,9 @@ esta información. He intentado condensar en este post la información poniendo
 un resumen arriba para que sea lo más fácil de entender posible ya que esta
 información así en frío puede ser extraña de recibir y causar confusión.
 
-## La timeline del caso Edutin Academy
+## Ecos
 
-> **ℹ️ Info**: ¿Tienes un canal de YouTube o Twitch sobre programación y has
-cubierto el tema, o sigues a un canal que lo haya cubierto? Manda un pull
-request para que lo incluyamos.
+> **ℹ️ Info**: ¿Faltan enlaces a ecos (YouTube / Twitch / Twitter)? Manda un pull request para incluirlo.
 
 La voz de alarma la da inicialmente el canal @CursosDeDesarrollo en sus
 plataformas cuando descubre que han aparecido en Edutin Academy cursos sobre
@@ -175,27 +173,19 @@ YouTube, por el que están cobrando la formación.
 * [13-abr-2024 | Usan mi contenido sin permiso violando la licencia, y no soy el único.](https://www.youtube.com/watch?v=pjannplkCTc)
 * [13-abr-2024 | Roban mi contenido para una academia que es una estafa](https://www.youtube.com/shorts/-FyNRrsOtcQ)
 
-Para darle más difusión, @makigas se hace eco de esta noticia en su canal
-de YouTube mencionando que en el pasado también le pasó a él, y de hecho
-encuentra que hay varios vídeos que también están cargados en la plataforma.
+Otros vídeos de más creadores que han ayudado a darle difusión al tema:
 
-* [15-abr-2024 | Siguen pirateando a creadores de contenido de programación](https://www.youtube.com/watch?v=kutlAUBxPig)
+* [15-abr-2024 | @makigas: Siguen pirateando a creadores de contenido de programación](https://www.youtube.com/watch?v=kutlAUBxPig)
+* [TodoCode lo cubrió en uno de sus directos](https://www.twitch.tv/todocode), pero no encuentro un enlace permanente al que pueda referenciar.
+* [28-abr-2024 | @VidaProgramador: La Estafa de Edutin Academy Plataforma Online de Programación](https://www.youtube.com/watch?v=iC83YN8aeQI)
+* [9-may-2024 | @MoureDevTV: Utilizan MIS CURSOS GRATIS de YouTube para GANAR DINERO](https://www.youtube.com/watch?v=Yto2vzCEeK4)
 
-Días después, el canal de YouTube, @VidaProgramador se hace eco del tema y
-amplía con más información.
+### Represalias
 
-* [28-abr-2024 | La Estafa de Edutin Academy Plataforma Online de Programación](https://www.youtube.com/watch?v=iC83YN8aeQI)
+De momento sólo consta que haya desaparecido el vídeo de @makigas, tras una denuncia de copyright.
 
-El 2 de mayo, el vídeo de @makigas es retirado por YouTube debido a una
-infracción de copyright enviada mediante proceso manual por Edutin Inc.
-Esto es grave porque supone una siguiente etapa, ya que podría indicar que
-Edutin Academy está intentando silenciar cualquier opinión negativa que pueda aparecer
-junto a su nombre para dificultar las ventas de su contenido.
-
-Reacciones:
-
-* [3-may-2024 | @CursosDeDesarrollo: Edutin quiere tumbar nuestros canales, hay que contestar](https://www.youtube.com/shorts/xKtqeAHG1VA)
 * [3-may-2024 | @makigas: Edutin me ha denunciado un vídeo por decir que sus cursos de programación no son suyos](https://www.youtube.com/watch?v=QifmOooZymw)
+* [3-may-2024 | @CursosDeDesarrollo: Edutin quiere tumbar nuestros canales, hay que contestar](https://www.youtube.com/shorts/xKtqeAHG1VA)
 
 ## Contribuir
 
