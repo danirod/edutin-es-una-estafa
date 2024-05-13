@@ -1,4 +1,43 @@
-# Edutin Academy es una presunta estafa, te explico por qué
+# Edutin Academy quiere dejar de ser una estafa (o eso parece)
+
+**ACTUALIZACIÓN: 13-may-2024**: Edutin ha retirado muchísimos cursos de su
+plataforma que previamente estaban en la lista. Recíprocamente, he quitado
+esas filas de mi lista. Sin embargo, he detectado dos cursos de programación
+que en su momento no intercepté. Esos no estaban en la primera lista y
+curiosamente tampoco han desaparecido. Así que voy a meterlos ahora para ver
+si con suerte se vuelve a producir la magia y desaparecen también. Vamos, sé
+que estáis leyendo esto. Ya casi lo tenéis así que quitad estos dos también.
+
+Dependiendo de como evolucionen las cosas, yo estaría por la labor de, o
+modificar la forma en la que está escrito el resto de este post para confirmar
+que esto ya no ocurre; o retirar el repositorio directamente. Si los
+materiales tomados de otros creadores se van a reemplazar por contenido propio,
+considero que eso es totalmente respetable y que merecen poder vender SU
+propio contenido igual que otros creadores producen, difunden gratis o venden
+los suyos.
+
+Sin embargo, dado que otras personas y empresas se hicieron eco de esta noticia,
+todavía no sé si tomar esa decisión o no porque a la vez tampoco quiero retirar
+el contexto de sus coberturas si es que deciden dejarlas online.
+
+Esto también es importante porque he detectado durante este fin de semana que
+se han publicado en un mismo periodo de tiempo un curioso número elevado de
+reseñas en su Trustpilot que dejan 5 estrellas y que tildan los comentarios
+negativos como "difamatorios". Hacer luz de gas y hacer como si nada de esto
+hubiese ocurrido sería una terrible idea. Estaremos de acuerdo en que hay
+demasiados pantallazos a estas alturas en demasiados canales de YouTube y otras
+redes sociales como para intentar hacer creer que esto nunca ocurrió. 🙂
+
+Gracias por denunciar mi vídeo, gente de Edutin 😁. Intentásteis censurar una
+mala reseña en internet por algo que ni siquiera me involucraba a mí, y al
+intentar dar caza al mensajero todo lo que conseguísteis fue que la bola se
+hiciese más grande. Gracias por probar una vez más que el
+[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand) es real. 💙
+
+También gracias a @MoureDev y a @EDteam por darle difusión a este tema. Enlaces
+a sus vídeos están abajo junto al resto de links.
+
+---
 
 **⚠️ IMPORTANTE**: Pese a que se parecen en el nombre, es ESENCIAL no confundir
 a Edutin Academy con EDteam, que también es otra plataforma que tiene cursos de
@@ -67,7 +106,8 @@ Los criterios de inclusión en la lista son:
 (es posible que haya cursos que no haya visto y no estén incluidos).
 
 * El vídeo es ajeno (o sea, no se incluyen los cursos que están hechos por
-ellos con material propio porque eso está OK)
+ellos con material propio porque eso está OK). No se incluyen las 2500
+lecciones de contenido original y propio.
 
 * Tampoco incluyo al canal CS50, ya que muchos de estos vídeos de por sí están
 resubidos en su cuenta, así que no están en el filtro del paso anterior.
@@ -179,6 +219,7 @@ Otros vídeos de más creadores que han ayudado a darle difusión al tema:
 * [TodoCode lo cubrió en uno de sus directos](https://www.twitch.tv/todocode), pero no encuentro un enlace permanente al que pueda referenciar.
 * [28-abr-2024 | @VidaProgramador: La Estafa de Edutin Academy Plataforma Online de Programación](https://www.youtube.com/watch?v=iC83YN8aeQI)
 * [9-may-2024 | @MoureDevTV: Utilizan MIS CURSOS GRATIS de YouTube para GANAR DINERO](https://www.youtube.com/watch?v=Yto2vzCEeK4)
+* [9-may-2024 | @EDteam:  La estafa de Edutin (y de gran parte de la educación online actual)](https://www.youtube.com/watch?v=-Jpoowfs-uM)
 
 ### Represalias
 
