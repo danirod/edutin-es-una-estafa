@@ -1,12 +1,12 @@
-# Edutin Academy quiere dejar de ser una estafa (o eso parece)
+# Edutin Academy está intentando dejar de ser una estafa (o eso parece)
 
-**ACTUALIZACIÓN: 13-may-2024**: Edutin ha retirado muchísimos cursos de su
+**ACTUALIZACIÓN**: Edutin retiró el 13 de mayo muchísimos cursos de su
 plataforma que previamente estaban en la lista. Recíprocamente, he quitado
-esas filas de mi lista. Sin embargo, he detectado dos cursos de programación
+esas filas de mi lista. Sin embargo, he seguido detectando más cursos
 que en su momento no intercepté. Esos no estaban en la primera lista y
 curiosamente tampoco han desaparecido. Así que voy a meterlos ahora para ver
 si con suerte se vuelve a producir la magia y desaparecen también. Vamos, sé
-que estáis leyendo esto. Ya casi lo tenéis así que quitad estos dos también.
+que estáis leyendo esto. Ya casi lo tenéis así que quitad estos también.
 
 Dependiendo de como evolucionen las cosas, yo estaría por la labor de, o
 modificar la forma en la que está escrito el resto de este post para confirmar
