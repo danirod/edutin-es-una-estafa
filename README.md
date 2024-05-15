@@ -191,15 +191,14 @@ Otros vídeos de más creadores que han ayudado a darle difusión al tema:
 * [15-abr-2024 | @makigas: Siguen pirateando a creadores de contenido de programación](https://www.youtube.com/watch?v=kutlAUBxPig)
 * [TodoCode lo cubrió en uno de sus directos](https://www.twitch.tv/todocode), pero no encuentro un enlace permanente al que pueda referenciar.
 * [28-abr-2024 | @VidaProgramador: La Estafa de Edutin Academy Plataforma Online de Programación](https://www.youtube.com/watch?v=iC83YN8aeQI)
+* [3-may-2024 | @makigas: Edutin me ha denunciado un vídeo por decir que sus cursos de programación no son suyos](https://www.youtube.com/watch?v=QifmOooZymw)
+* [3-may-2024 | @CursosDeDesarrollo: Edutin quiere tumbar nuestros canales, hay que contestar](https://www.youtube.com/shorts/xKtqeAHG1VA)
 * [9-may-2024 | @MoureDevTV: Utilizan MIS CURSOS GRATIS de YouTube para GANAR DINERO](https://www.youtube.com/watch?v=Yto2vzCEeK4)
 * [9-may-2024 | @EDteam:  La estafa de Edutin (y de gran parte de la educación online actual)](https://www.youtube.com/watch?v=-Jpoowfs-uM)
 
-### Represalias
+El canal de YouTube oficial de la academia subió un vídeo indicando cómo funciona su modelo de negocio:
 
-De momento sólo consta que haya desaparecido el vídeo de @makigas, tras una denuncia de copyright.
-
-* [3-may-2024 | @makigas: Edutin me ha denunciado un vídeo por decir que sus cursos de programación no son suyos](https://www.youtube.com/watch?v=QifmOooZymw)
-* [3-may-2024 | @CursosDeDesarrollo: Edutin quiere tumbar nuestros canales, hay que contestar](https://www.youtube.com/shorts/xKtqeAHG1VA)
+* [13-may-2024 | @EdutinAcademy: Edutin Academy Utiliza Licencias CC y YouTube Estándar](https://www.youtube.com/watch?v=bdjldsHGi9Q)
 
 ## Contribuir
 
