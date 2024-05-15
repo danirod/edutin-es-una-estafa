@@ -1,4 +1,4 @@
-# Edutin Academy está intentando dejar de ser una estafa (o eso parece)
+# Edutin Academy re-vende contenido gratuito de YouTube (tenlo en cuenta antes de comprar)
 
 **ACTUALIZACIÓN**: Edutin retiró el 13 de mayo muchísimos cursos de su
 plataforma que previamente estaban en la lista. Recíprocamente, he quitado
