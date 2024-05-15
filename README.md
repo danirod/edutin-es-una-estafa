@@ -4,38 +4,11 @@
 plataforma que previamente estaban en la lista. Recíprocamente, he quitado
 esas filas de mi lista. Sin embargo, he seguido detectando más cursos
 que en su momento no intercepté. Esos no estaban en la primera lista y
-curiosamente tampoco han desaparecido. Así que voy a meterlos ahora para ver
-si con suerte se vuelve a producir la magia y desaparecen también. Vamos, sé
-que estáis leyendo esto. Ya casi lo tenéis así que quitad estos también.
+curiosamente tampoco han desaparecido.
 
-Dependiendo de como evolucionen las cosas, yo estaría por la labor de, o
-modificar la forma en la que está escrito el resto de este post para confirmar
-que esto ya no ocurre; o retirar el repositorio directamente. Si los
-materiales tomados de otros creadores se van a reemplazar por contenido propio,
-considero que eso es totalmente respetable y que merecen poder vender SU
-propio contenido igual que otros creadores producen, difunden gratis o venden
-los suyos.
+[Lista actualizada de vídeos que están tomando de otros canales para las categorías relacionadas con informática](https://github.com/danirod/edutin-es-una-estafa/blob/trunk/Canales-y-videos-afectados.csv)
 
-Sin embargo, dado que otras personas y empresas se hicieron eco de esta noticia,
-todavía no sé si tomar esa decisión o no porque a la vez tampoco quiero retirar
-el contexto de sus coberturas si es que deciden dejarlas online.
-
-Esto también es importante porque he detectado durante este fin de semana que
-se han publicado en un mismo periodo de tiempo un curioso número elevado de
-reseñas en su Trustpilot que dejan 5 estrellas y que tildan los comentarios
-negativos como "difamatorios". Hacer luz de gas y hacer como si nada de esto
-hubiese ocurrido sería una terrible idea. Estaremos de acuerdo en que hay
-demasiados pantallazos a estas alturas en demasiados canales de YouTube y otras
-redes sociales como para intentar hacer creer que esto nunca ocurrió. 🙂
-
-Gracias por denunciar mi vídeo, gente de Edutin 😁. Intentásteis censurar una
-mala reseña en internet por algo que ni siquiera me involucraba a mí, y al
-intentar dar caza al mensajero todo lo que conseguísteis fue que la bola se
-hiciese más grande. Gracias por probar una vez más que el
-[efecto Streisand](https://es.wikipedia.org/wiki/Efecto_Streisand) es real. 💙
-
-También gracias a @MoureDev y a @EDteam por darle difusión a este tema. Enlaces
-a sus vídeos están abajo junto al resto de links.
+[La lista original tal cual la subí el primer día está aquí (desactualizada)](https://github.com/danirod/edutin-es-una-estafa/blob/a966e05126280b76fb9d64e98ae6d2701476f598/Canales-y-videos-afectados.csv)
 
 ---
 
