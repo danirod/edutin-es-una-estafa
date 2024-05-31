@@ -1,16 +1,15 @@
-# Edutin Academy re-vende contenido gratuito de YouTube (tenlo en cuenta antes de comprar)
+# Edutin Academy re-vende contenido gratuito de YouTube (tenlo en cuenta antes de comprar, estás pagando por cuatro vídeos de YouTube)
 
-**ACTUALIZACIÓN**: Edutin retiró el 13 de mayo muchísimos cursos de su
-plataforma que previamente estaban en la lista. Recíprocamente, he quitado
-esas filas de mi lista. Sin embargo, he seguido detectando más cursos
-que en su momento no intercepté. Esos no estaban en la primera lista y
-curiosamente tampoco han desaparecido.
+**[Lista actualizada de vídeos que están pillando de otros canales para informática y ciberseguridad](https://github.com/danirod/edutin-es-una-estafa/blob/trunk/Canales-y-videos-afectados.csv)**. Incluye los nombres de los canales de YouTube de donde lo están sacando. Estas personas no tienen nada que ver con esta plataforma, no son profesores de la misma, no saben que están vendiendo su contenido, y desde luego no reciben dinero por esto.
 
-[Lista actualizada de vídeos que están tomando de otros canales para las categorías relacionadas con informática](https://github.com/danirod/edutin-es-una-estafa/blob/trunk/Canales-y-videos-afectados.csv)
+**[La lista original tal cual la subí el primer día está aquí (desactualizada)](https://github.com/danirod/edutin-es-una-estafa/blob/a966e05126280b76fb9d64e98ae6d2701476f598/Canales-y-videos-afectados.csv)**. Esta es la que se volvió viral cuando hice el hilo, aunque la mayor parte de este contenido lo han dado de baja en este momento
 
-[La lista original tal cual la subí el primer día está aquí (desactualizada)](https://github.com/danirod/edutin-es-una-estafa/blob/a966e05126280b76fb9d64e98ae6d2701476f598/Canales-y-videos-afectados.csv)
+## Resumen
 
----
+* Edutin Academy es una plataforma de formación que tiene una universidad en
+línea. Mucho de su contenido es tomado de vídeos de YouTube sin ningún tipo
+de contexto ni solución de continuidad, hechos por gente que no tiene nada que
+ver con la plataforma.
 
 **⚠️ IMPORTANTE**: Pese a que se parecen en el nombre, es ESENCIAL no confundir
 a Edutin Academy con EDteam, que también es otra plataforma que tiene cursos de
@@ -20,18 +19,11 @@ refiriendo a Edutin Academy. Por favor, no la toméis con EDteam por este tema
 porque no sólo no tienen nada que ver, sino que sus vídeos también están en
 la lista.
 
-## Resumen
-
-* Edutin Academy es una plataforma de formación que tiene una universidad en
-línea. Mucho de su contenido es tomado de vídeos de YouTube sin ningún tipo
-de contexto ni solución de continuidad, hechos por gente que no tiene nada que
-ver con la plataforma.
-
-* Durante el seguimiento del curso, constantemente salen anuncios para invitar
-a comprar la certificación del curso y la formación tutorizada. Esta formación
-tiene un precio que depende del país y, repito, se basa en torno a contenido
-que es generado por otras personas en YouTube, haciendo dificil trazar el
-origen del contenido para ver si son personas expertas o no.
+* Dentro del curso constantemente salen anuncios para invitar a comprar la
+certificación del curso y la formación tutorizada. Esta formación tiene un
+precio que depende del país y, repito, se basa en torno a contenido que es
+generado por otras personas en YouTube, haciendo dificil trazar el origen del
+contenido para ver si son personas expertas o no.
 
 * Edutin Academy utiliza el reproductor incrustado de YouTube para adjuntar
 esos vídeos a su página. Este proceso es legal en tanto que el autor del vídeo
@@ -75,8 +67,10 @@ He compilado **[una lista](Canales-y-videos-afectados.csv)**
 con las lecciones de los cursos de Edutin que utilizan contenido ajeno.
 Los criterios de inclusión en la lista son:
 
-* El curso forma parte de la categoría de Programación y lo he detectado
-(es posible que haya cursos que no haya visto y no estén incluidos).
+* El curso forma parte de las categorías de Programación, Telecomunicación,
+Ciberseguridad y similares, y lo he detectado (es posible que haya cursos
+que no haya visto y no estén incluidos), sobre todo en otras categorías,
+pero no puedo comprobar cada vídeo porque no soy experto en esos temas.
 
 * El vídeo es ajeno (o sea, no se incluyen los cursos que están hechos por
 ellos con material propio porque eso está OK). No se incluyen las 2500
@@ -194,7 +188,10 @@ Otros vídeos de más creadores que han ayudado a darle difusión al tema:
 * [3-may-2024 | @makigas: Edutin me ha denunciado un vídeo por decir que sus cursos de programación no son suyos](https://www.youtube.com/watch?v=QifmOooZymw)
 * [3-may-2024 | @CursosDeDesarrollo: Edutin quiere tumbar nuestros canales, hay que contestar](https://www.youtube.com/shorts/xKtqeAHG1VA)
 * [9-may-2024 | @MoureDevTV: Utilizan MIS CURSOS GRATIS de YouTube para GANAR DINERO](https://www.youtube.com/watch?v=Yto2vzCEeK4)
-* [9-may-2024 | @EDteam:  La estafa de Edutin (y de gran parte de la educación online actual)](https://www.youtube.com/watch?v=-Jpoowfs-uM)
+* [9-may-2024 | @EDteam: La estafa de Edutin (y de gran parte de la educación online actual)](https://www.youtube.com/watch?v=-Jpoowfs-uM)
+* [15-may-2024 | @MoureDevTV: El CERTIFICADO de PROGRAMACIÓN que ya NO podrás conseguir](https://www.youtube.com/watch?v=zl67dbrv9Qs)
+* [17-may-2024 | @EDteam: Los estafadores de edutin vuelven a atacar](https://www.youtube.com/watch?v=qSPzjcSUY2I)
+* [21-may-2024 | @MoureDevTV: ESPECIALISTA analiza la VENTA de CERTIFICADOS de Edutin](https://www.youtube.com/watch?v=t1I5MEujxqY)
 
 El canal de YouTube oficial de la academia subió un vídeo indicando cómo funciona su modelo de negocio:
 
